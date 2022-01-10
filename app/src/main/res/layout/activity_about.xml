@@ -216,6 +216,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/material_generic_large"
+                        android:background="#03A9F4"
                         android:paddingLeft="@dimen/material_generic">
 
                         <TextView
@@ -223,7 +224,7 @@
                             android:layout_height="wrap_content"
                             android:layout_centerVertical="true"
                             android:text="@string/authors"
-                            android:textColor="@android:color/darker_gray" />
+                            android:textColor="@android:color/black" />
                     </RelativeLayout>
 
                     <!-- author 1 -->
@@ -305,7 +306,7 @@
                             android:layout_centerVertical="true"
                             android:layout_marginLeft="@dimen/material_generic"
                             android:layout_marginRight="@dimen/material_generic_medium"
-                            app:srcCompat="@drawable/ic_account_circle_grey_24dp" />
+                            app:srcCompat="@drawable/ic_android_white_24dp" />
 
                         <RelativeLayout
                             android:layout_width="wrap_content"
@@ -344,6 +345,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/material_generic_large"
+                        android:background="#03A9F4"
                         android:paddingLeft="@dimen/material_generic">
 
                         <TextView
@@ -351,7 +353,7 @@
                             android:layout_height="wrap_content"
                             android:layout_centerVertical="true"
                             android:text="@string/developers"
-                            android:textColor="@android:color/darker_gray" />
+                            android:textColor="@android:color/black" />
                     </RelativeLayout>
                     <!-- dev 1 -->
                     <RelativeLayout
